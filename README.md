@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis-
+# Diwali-Sales-Analysis
 
 • Tech Stack: Microsoft Excel, Pivot tables, Pivot Charts, Slicers, Excel formulas.
 
